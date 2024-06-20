@@ -1,0 +1,22 @@
+.NavBar {
+    background-color: black;
+}
+
+.NavBar-container {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 80%;
+    color: white;
+}
+
+.NavBar-button {
+    padding-top: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.NavBar-button button {
+    padding: 8px 16px;
+    cursor: pointer;
+}
